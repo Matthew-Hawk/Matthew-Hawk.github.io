@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Matthew Hawkins',
     description: '',
     imageURL: '',
   },
@@ -83,32 +83,35 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    //'PHP',
+    //'Laravel',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
+    //'Nest.js',
     'MySQL',
-    'PostgreSQL',
+    //'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
+    //'Docker',
+    //'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
+    //'Antd',
+    //'Tailwind',
+    'Python',
+    'Powershell',
+    'CMD'
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Knowledge Based Systems, Inc',
+      position: 'IT Generalist',
+      from: 'November 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.kbsi.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'M and H Construction',
+      position: 'Team Lead',
       from: 'July 2019',
       to: 'August 2021',
       companyLink: 'https://example.com',
@@ -116,8 +119,8 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
+      name: 'Comptia A+',
+      body: 'Basics of IT and Technologyu',
       year: 'March 2022',
       link: 'https://example.com',
     },
@@ -136,7 +139,7 @@ const CONFIG = {
       to: '2014',
     },
   ],
-  publications: [
+  /* publications: [
     {
       title: 'Publication Title',
       conferenceName: '',
@@ -155,7 +158,7 @@ const CONFIG = {
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
     },
-  ],
+  ], */
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
@@ -171,7 +174,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'aqua',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
