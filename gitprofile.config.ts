@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'In Progress/ Will generate the user a Strong password with suplied peramiters',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0',
           link: 'https://example.com',
         },
         {
@@ -45,8 +45,8 @@ const CONFIG = {
           description:
             'I create Educational content centered around teaching IT fundamentals and Cyber Security best practices',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://unsplash.com/photos/a-red-and-white-square-with-a-video-player-on-it-GOuXUnbEAmg?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash',
+          link: 'https://www.youtube.com/@Matthew__Hawk',
         },
       ],
     },
