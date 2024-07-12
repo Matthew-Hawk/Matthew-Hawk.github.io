@@ -1,6 +1,6 @@
 # Live Portfolio
-### Click me below to see live site
-[Live Portfolio](https://matthew-hawk.github.io/) 
+### Click below to see live site
+### [Live Portfolio](https://matthew-hawk.github.io/) 
 <br/>
 
 
